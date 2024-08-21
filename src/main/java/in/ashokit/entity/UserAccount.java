@@ -15,7 +15,7 @@ public class UserAccount {
 	@Id
 	@GeneratedValue
 	private Integer userId;
-	private String fullName;
+	private String fullNme;
 	private String Email;
 	private long mobileNo;
 	private String gender;
